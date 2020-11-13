@@ -25,7 +25,7 @@ import flask
 from flask import Flask,request
 app=Flask(__name__)
 
-FILE_NAME='D:\ANKIT\GraduateAdmissions\catboost_model.sav'
+FILE_NAME='D:\ANKIT\GraduateAdmissions\catboost_model.sav' #Use your own path
 df=load_data()
 model=None
 
@@ -124,9 +124,10 @@ def predict():
         return {"Chance":chance}
 
 
-# New users will have to run methods below
-#save()
-#load_model()
+# New users will have to run methods below:
+# save()       --> In order to retrain
+# load_model() --> or else use pre-trained model
+
 # Some inputs for verifying correct model loading and prediction
 #print(model.predict(np.array([[315.0 , 105.0 , 2.0 , 3.0 , 3.0 , 7.5 , 1.0]]))[0])
 
