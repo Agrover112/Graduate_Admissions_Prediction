@@ -16,12 +16,9 @@ cols=st.beta_columns([1,5,1])
 cols[1].image(image_1,use_full_column_width=True,width=700)
 st.title("Graduate Admission's Analysis ")
 
-#bc_2.image('streamlit-app//img//Graduate-Admissions_blue.png')
 
 
 pg=Sections()
 pg.sections(Components.sidebar() )
 Components.page_ending()
 
-##val=st.beta_color_picker('chose')
-#print(val)
