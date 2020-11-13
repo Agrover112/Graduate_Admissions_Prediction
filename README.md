@@ -1,10 +1,10 @@
 # Graduate_Admissions
-A Streamlit web app that predicts chance of admission into masters program based on various factors using a Flask backend with Catboost model.
+A Streamlit❤️ web app that predicts chance of admission into masters program based on various factors using a Flask backend with Catboost model.
 
 
 
 # Features 
-[![](http://img.youtube.com/vi/fjgICznjG2Q/0.jpg)](http://www.youtube.com/watch?v=fjgICznjG2Q "")
+[![Demo Video](http://img.youtube.com/vi/fjgICznjG2Q/0.jpg)](http://www.youtube.com/watch?v=fjgICznjG2Q "")
 
 
 # Installing packages
