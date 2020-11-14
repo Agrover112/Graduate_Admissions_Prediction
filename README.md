@@ -10,7 +10,7 @@ A Streamlit❤️ web app that predicts chance of admission into masters program
 # Installing packages
 
 ```
-python -m install requirements.txt
+python -m pip install requirements.txt
 ```
 
 
