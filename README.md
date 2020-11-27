@@ -4,6 +4,7 @@ A Streamlit❤️ web app that predicts chance of admission into masters program
 
 
 # Features 
+Refer demo video.
 [![Demo Video](http://img.youtube.com/vi/fjgICznjG2Q/0.jpg)](http://www.youtube.com/watch?v=fjgICznjG2Q "")
 
 
