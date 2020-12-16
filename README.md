@@ -17,7 +17,7 @@ python -m pip install requirements.txt
 
 # How to Run
 To run the API as a background process on Windows follow the  instructions mentioned [here](https://towardsdatascience.com/deploying-flask-on-windows-b2839d8148fa)
-or one could open another console usingt ```tmux``` or in ```VSCode```.
+or one could open another console using```tmux``` or in ```VSCode```.
 Run this file which serves as the entry-point to the ```Streamlit``` frontend
 ```
 streamlit run streamlit_app.py
