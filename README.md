@@ -1,10 +1,15 @@
 # Graduate_Admissions
+[![GitHub stars](https://img.shields.io/github/stars/Agrover112/streamlit-mushrooms)](https://github.com/Agrover112/streamlit-mushrooms/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Agrover112/streamlit-mushrooms)](https://github.com/Agrover112/streamlit-mushrooms/network)
+
 A Streamlit❤️ web app that predicts the chance of admission into masters program based on various factors using a Flask API  with Catboost model running as a background process on Windows .
 
 
 
 # Features 
+
 Refer demo video.
+
 [![Demo Video](http://img.youtube.com/vi/fjgICznjG2Q/0.jpg)](http://www.youtube.com/watch?v=fjgICznjG2Q "")
 
 
