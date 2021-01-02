@@ -1,6 +1,8 @@
 # Graduate_Admissions
-[![GitHub stars](https://img.shields.io/github/stars/Agrover112/streamlit-mushrooms)](https://github.com/Agrover112/streamlit-mushrooms/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Agrover112/streamlit-mushrooms)](https://github.com/Agrover112/streamlit-mushrooms/network)
+
+[![GitHub stars](https://img.shields.io/github/stars/Agrover112/Graduate_Admissions_Prediction)](https://github.com/Agrover112/Graduate_Admissions_Prediction/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Agrover112/Graduate_Admissions_Prediction)](https://github.com/Agrover112/Graduate_Admissions_Prediction/network)
+[![GitHub license](https://img.shields.io/github/license/Agrover112/Graduate_Admissions_Prediction)](https://github.com/Agrover112/Graduate_Admissions_Prediction/blob/main/LICENSE)
 
 A Streamlit❤️ web app that predicts the chance of admission into masters program based on various factors using a Flask API  with Catboost model running as a background process on Windows .
 
