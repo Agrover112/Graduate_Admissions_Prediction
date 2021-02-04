@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from PIL import Image
 from page import Components ,Sections
-st.beta_set_page_config(page_title='UROPX-GradAmdissions',page_icon='https://avatars2.githubusercontent.com/u/62988119?s=200&v=4')
+st.beta_set_page_config(page_title='UROPX-GradAdmissions',page_icon='https://avatars2.githubusercontent.com/u/62988119?s=200&v=4')
 image_1=Image.open('D:\\ANKIT\\GraduateAdmissions\\streamlit-app\\img\\Graduate-Admissions_blue.png')
 #PAGE_CONFIG={'page_title':'UROPX-GradAmdissions'}
 
