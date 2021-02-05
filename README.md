@@ -17,7 +17,7 @@ Refer demo video.
 [![Demo Video](http://img.youtube.com/vi/fjgICznjG2Q/0.jpg)](http://www.youtube.com/watch?v=fjgICznjG2Q "")
 
 
-# Installing packages
+# Getting Started
 
 ```
 python -m pip install requirements.txt
