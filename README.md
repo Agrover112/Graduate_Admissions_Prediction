@@ -8,6 +8,8 @@ A Streamlit❤️ web app that predicts the chance of admission into masters pro
 
 
 <img src="https://github.com/Agrover112/Graduate_Admissions_Prediction/blob/main/Main_Page.png" alt="Main Page" style="height: 100px; width:100px;"/>
+
+
 # Features 
 
 Refer demo video.
