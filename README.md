@@ -13,7 +13,7 @@ Refer demo video.
 ## Getting Started
 
 ```
-python -m pip install requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 ## How to Run
@@ -21,5 +21,5 @@ To run the API as a background process on Windows follow the  instructions menti
 or one could open another console using `tmux` or in `VSCode`.
 Run this file which serves as the entry-point to the `Streamlit` frontend.
 ```
-streamlit run streamlit_app.py
+streamlit run streamlit-app/streamlit_app.py
 ```
