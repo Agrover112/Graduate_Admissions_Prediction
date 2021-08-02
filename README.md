@@ -23,3 +23,6 @@ Run this file which serves as the entry-point to the `Streamlit` frontend.
 ```
 streamlit run streamlit-app/streamlit_app.py
 ```
+
+### NOTE
+Following code Boldy assumes the use of Windows. Since a Windows process is being spawned. Also all file path need to be changed to match your dir structure.
