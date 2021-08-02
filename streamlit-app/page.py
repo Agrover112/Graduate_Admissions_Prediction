@@ -155,7 +155,7 @@ class Sections:
             payload={'Input':inp_array.tolist()}
             st.write("Your Input",payload)
             if st.button("Know your chance"):
-                response=requests.post("http://DESKTOP-YourDesktopID:8080/predict",json=payload) #change
+                response=requests.post("http://DESKTOP-YourDesktopID:8080/predict",json=payload) # Add your own Desktop-ID
                 #response=requests.post("http://127.0.0.1:5000/predict",json=payload)
                 res=json.loads(response.text)
                 st.write("Your chance is",res["Chance"],"%")
