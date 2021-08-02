@@ -1,4 +1,5 @@
 # Graduate_Admissions
+*Project no longer being maintained*
 
 A Streamlit❤️ web app that predicts the chance of admission into masters program based on various factors using a Flask API  with Catboost model running as a background process on Windows .
 
@@ -24,5 +25,5 @@ Run this file which serves as the entry-point to the `Streamlit` frontend.
 streamlit run streamlit-app/streamlit_app.py
 ```
 
-### NOTE
-Following code Boldy assumes the use of Windows. Since a Windows process is being spawned. Also all file path need to be changed to match your dir structure.
+### NOTE:
+Following code Boldy assumes the use of Windows. Since a Windows process is being spawned for the REST api serving. Also all file path need to be changed to match your dir structure.
