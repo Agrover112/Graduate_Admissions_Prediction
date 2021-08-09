@@ -1,6 +1,8 @@
 # Graduate_Admissions
 *Project no longer being maintained*
 
+*Refer [report](report/Report.pdf) for details such as architecture,methdology,etc.*
+
 A Streamlit❤️ web app that predicts the chance of admission into masters program based on various factors using a Flask API  with Catboost model running as a background process on Windows .
 
 <img src="https://github.com/Agrover112/Graduate_Admissions_Prediction/blob/main/Main_Page.png" alt="Main Page" style="height: 100px; width:100px;"/>
