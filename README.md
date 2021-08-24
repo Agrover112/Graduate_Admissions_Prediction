@@ -28,4 +28,4 @@ streamlit run streamlit-app/streamlit_app.py
 ```
 
 ### NOTE:
-Following code Boldy assumes the use of Windows. Since a Windows process is being spawned for the REST api serving. Also all file path need to be changed to match your dir structure.
+Following code boldy assumes the use of Windows. Since a Windows process is being spawned for serving the REST api. Also all file path need to be changed to match your dir structure.
