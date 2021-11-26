@@ -1,5 +1,9 @@
 # Graduate_Admissions
-*Project no longer being maintained because Retrospection:Catboost is heavily overfitted so something like an SVM or a simple Linear model would be much better :)*
+*Project no longer being maintained*
+
+**Retrospection: Catboost  heavily overfits just as magically as XGBoost despite lower RMSE,Higher Accuracy KFold and further testing is required,
+so you are better off using something like an LinearRegression or an LSVM/C
+Thanks**
 
 *Refer [report](report/Report.pdf) for details such as architecture,methdology,etc.*
 
