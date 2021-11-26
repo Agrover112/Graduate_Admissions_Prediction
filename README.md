@@ -1,9 +1,10 @@
 # Graduate_Admissions
-*Project no longer being maintained*
+*Project no longer being maintained because Retrospection:Catboost is heavily overfitted so something like an SVM or a simple Linear model would be much better :)*
 
 *Refer [report](report/Report.pdf) for details such as architecture,methdology,etc.*
 
 A Streamlit❤️ web app that predicts the chance of admission into masters program based on various factors using a Flask API  with Catboost model running as a background process on Windows .
+r 
 
 <img src="https://github.com/Agrover112/Graduate_Admissions_Prediction/blob/main/Main_Page.png" alt="Main Page" style="height: 100px; width:100px;"/>
 
@@ -29,3 +30,4 @@ streamlit run streamlit-app/streamlit_app.py
 
 ### NOTE:
 Following code boldy assumes the use of Windows. Since a Windows process is being spawned for serving the REST api. Also all file path need to be changed to match your dir structure.
+
