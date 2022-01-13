@@ -4,7 +4,7 @@ Flask==1.1.2
 xgboost==0.90
 requests==2.24.0
 streamlit_nightly==0.69.2.dev20201015
-numpy==1.18.5
+numpy==1.21.0
 waitress==1.4.4
 seaborn==0.10.0
 pandas==1.1.1
