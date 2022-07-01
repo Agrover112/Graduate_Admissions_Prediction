@@ -1,5 +1,5 @@
 # Graduate_Admissions
-*Project no longer being maintained*
+*Project abandoned :(*
 
 **Retrospection: Catboost  heavily overfits just as magically as XGBoost despite lower RMSE,Higher Accuracy KFold and further testing is required,
 so you are better off using something like an LinearRegression or an LSVM/C
