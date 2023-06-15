@@ -1,9 +1,13 @@
 # Graduate_Admissions
 *Project abandoned :(*
 
-**Retrospection: Catboost  heavily overfits just as magically as XGBoost despite lower RMSE,Higher Accuracy KFold and further testing is required,
-so you are better off using something like an LinearRegression or an LSVM/C
-Thanks**
+**Retrospection:**
+- The dataset collected is prone to heavy representational biases. Moreover, simplifying prediction of Likelihood of being admitted to a Graduate School based on Test Scores and Proxy such as GPA is a form of Measurement Bias. The data fails to reflect and/or consider multiple factors such as  Net Finnancial Income, Deomgraphic,etc. Even then it would lend itself to Learning bias due to Representational/Sampling issues arising from data collected. EX: If factors such as age,gender, ethnicity are used then surely presence of a certain demographic will outweight others, this in-turn will lead to bias in our models by scoring similar candidates but with differrent backgrounds differently.
+- Its been proven that factors such as GPA, Test Scores,etc are bad predictors of success both at finishing university as well as success outside university.
+- A Complex model such as XGBoost/CatBoost will overfit and be biased. Simple estimators such as Linear Models or Decision Tree based models are better alternatives.
+- From an ethical perspective the given dataset seems fit only for Statistical Analysis not for Predictive Analytics as it would lend to Deployment Biase.
+
+
 
 *Refer [report](report/Report.pdf) for details such as architecture,methdology,etc.*
 
